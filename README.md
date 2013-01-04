@@ -1,5 +1,7 @@
 # Gloubster PHP Client
 
+[![Build Status](https://travis-ci.org/Gloubster/Client.png?branch=master)](https://travis-ci.org/Gloubster/Client)
+
 A set of synchronous / asynchronous clients to use to query a Gloubster Server.
 
 ## Use in your project
@@ -29,10 +31,8 @@ try {
     echo "An error occured while querying Gloubster Server, the response was not understood\n";
     echo sprintf("Server answered : %s\n", $e->getResponse());
 } catch (ClientNotAcknowledgedRequestException $e) {
-
     echo sprintf("Gloubster Server did not acknowledge the query for "
         . "the following reason : %s \n", $e->getAcknowledgement()->getReason());
-
 }
 ```
 
