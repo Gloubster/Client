@@ -1,0 +1,27 @@
+{
+    "name": "gloubster/client",
+    "description": "Gloubster PHP client",
+    "authors": [
+        {
+            "name": "Romain Neutron",
+            "email": "imprec@gmail.com"
+        }
+    ],
+    "require": {
+        "gloubster/communications": "dev-master"
+    },
+    "require-dev": {
+        "guzzle/guzzle": "3.*",
+        "ext-zmq": "*"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Gloubster": "src"
+        }
+    },
+    "suggest": {
+        "ext-zmq": "ZMQ PHP extension is required to use the ZMQ client",
+        "guzzle/guzzle": "Guzzle Client is required to use the Http Client"
+    }
+}
