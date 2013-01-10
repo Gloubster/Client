@@ -12,6 +12,7 @@
     },
     "require-dev": {
         "guzzle/guzzle": "3.*",
+        "silex/silex": "1.0.x-dev",
         "ext-zmq": "*"
     },
     "minimum-stability": "dev",
