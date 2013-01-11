@@ -7,12 +7,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Gloubster/Communications",
-                "reference": "db2812d144ebaa0970918de099d1e795e7d70fa5"
+                "reference": "2c8ab962b0964aa443058f3ca816bb6d2b0ed561"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/Gloubster/Communications/archive/db2812d144ebaa0970918de099d1e795e7d70fa5.zip",
-                "reference": "db2812d144ebaa0970918de099d1e795e7d70fa5",
+                "url": "https://github.com/Gloubster/Communications/archive/2c8ab962b0964aa443058f3ca816bb6d2b0ed561.zip",
+                "reference": "2c8ab962b0964aa443058f3ca816bb6d2b0ed561",
                 "shasum": ""
             },
             "require": {
@@ -26,7 +26,7 @@
             "suggest": {
                 "aws/aws-sdk-php": "Amazon SDK library to enable AmazonS3 delivery"
             },
-            "time": "2013-01-04 14:02:20",
+            "time": "2013-01-11 11:57:30",
             "type": "library",
             "installation-source": "source",
             "autoload": {
@@ -110,12 +110,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle",
-                "reference": "38327cbf4e34a47ea13e3ee021aa6d5a2a52b5f9"
+                "reference": "e4366e6d43dad8d251c62cb21dd6328e711e8d6c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/guzzle/guzzle/archive/38327cbf4e34a47ea13e3ee021aa6d5a2a52b5f9.zip",
-                "reference": "38327cbf4e34a47ea13e3ee021aa6d5a2a52b5f9",
+                "url": "https://github.com/guzzle/guzzle/archive/e4366e6d43dad8d251c62cb21dd6328e711e8d6c.zip",
+                "reference": "e4366e6d43dad8d251c62cb21dd6328e711e8d6c",
                 "shasum": ""
             },
             "require": {
@@ -162,7 +162,7 @@
                 "zend/zend-cache": "2.0.0beta3",
                 "zend/zend-log": "2.0.0beta3"
             },
-            "time": "2013-01-10 07:11:35",
+            "time": "2013-01-10 23:30:22",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -295,12 +295,12 @@
             "source": {
                 "type": "git",
                 "url": "git://github.com/fabpot/Silex.git",
-                "reference": "d6243e37fcf78aadf679141ecb96b8eefed7a203"
+                "reference": "605f8262b6757e7721dcd8a0073a917e900f6862"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/fabpot/Silex/archive/d6243e37fcf78aadf679141ecb96b8eefed7a203.zip",
-                "reference": "d6243e37fcf78aadf679141ecb96b8eefed7a203",
+                "url": "https://github.com/fabpot/Silex/archive/605f8262b6757e7721dcd8a0073a917e900f6862.zip",
+                "reference": "605f8262b6757e7721dcd8a0073a917e900f6862",
                 "shasum": ""
             },
             "require": {
@@ -335,7 +335,7 @@
                 "symfony/css-selector": ">=2.1,<2.3-dev",
                 "symfony/dom-crawler": ">=2.1,<2.3-dev"
             },
-            "time": "2013-01-10 07:32:36",
+            "time": "2013-01-11 06:54:36",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -431,18 +431,18 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/HttpFoundation",
-                "reference": "6e49a86aa4092ce3891e26fbea345e63d8df6eeb"
+                "reference": "39fb3c9d1c45fbf8294a4d822a8a0ebab66cc9a3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/symfony/HttpFoundation/archive/6e49a86aa4092ce3891e26fbea345e63d8df6eeb.zip",
-                "reference": "6e49a86aa4092ce3891e26fbea345e63d8df6eeb",
+                "url": "https://github.com/symfony/HttpFoundation/archive/39fb3c9d1c45fbf8294a4d822a8a0ebab66cc9a3.zip",
+                "reference": "39fb3c9d1c45fbf8294a4d822a8a0ebab66cc9a3",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.3"
             },
-            "time": "2013-01-10 08:22:55",
+            "time": "2013-01-11 07:24:18",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -482,12 +482,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/HttpKernel",
-                "reference": "843acabfdef3f79dee84a013fdb60b46046ac0f3"
+                "reference": "b371a89177526c2a5793649229b4dea9915549b6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/symfony/HttpKernel/archive/843acabfdef3f79dee84a013fdb60b46046ac0f3.zip",
-                "reference": "843acabfdef3f79dee84a013fdb60b46046ac0f3",
+                "url": "https://github.com/symfony/HttpKernel/archive/b371a89177526c2a5793649229b4dea9915549b6.zip",
+                "reference": "b371a89177526c2a5793649229b4dea9915549b6",
                 "shasum": ""
             },
             "require": {
@@ -515,7 +515,7 @@
                 "symfony/dependency-injection": "2.2.*",
                 "symfony/finder": "2.2.*"
             },
-            "time": "2013-01-10 16:57:14",
+            "time": "2013-01-11 10:33:37",
             "type": "library",
             "extra": {
                 "branch-alias": {
